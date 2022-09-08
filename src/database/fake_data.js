@@ -23,15 +23,4 @@ const proffys = [
     time_from: [720],
     time_to: [1220],
   },
-  {
-    name: "Cristhyan Kohlhase",
-    avatar: "https://avatars.githubusercontent.com/u/25498050?v=4",
-    whatsapp: 6596008129,
-    bio: "FULL STACK.",
-    subject: "Matemática",
-    cost: "20000",
-    weekday: [1],
-    time_from: [720],
-    time_to: [1220],
-  },
 ];
